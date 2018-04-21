@@ -32,4 +32,6 @@
 ![aaa](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163531.png)
 #### 点击“暂停计时”，倒计时器回到初始状态
     截图如下
+    
 ![aaa](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163517.png)
+#### 点击“开始计时”，进行下一次倒计时
