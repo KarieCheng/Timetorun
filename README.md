@@ -34,4 +34,3 @@
     截图如下
     
 ![aaa](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163517.png)
-#### 点击“开始计时”，进行下一次倒计时
