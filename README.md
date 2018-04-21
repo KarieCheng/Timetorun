@@ -5,4 +5,4 @@
 #### 主界面
 打开小程序首先看到的界面，截图如下
 
-！[error](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163456.png)
+![aaa](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163456.png)
