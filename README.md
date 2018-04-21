@@ -6,3 +6,5 @@
 打开小程序首先看到的界面，截图如下
 
 ![aaa](https://github.com/KarieCheng/Timetorun/blob/master/QQ图片20180421163456.png)
+#### 点击“跑步”
+可以看到如下界面
